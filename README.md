@@ -20,3 +20,15 @@ classifiers = [
 "Homepage" = "https://github.com/pypa/sampleproject"
 "Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
 ```
+
+Criando README.md 
+Abra README.mde digite o seguinte conteúdo. Você pode personalizar isso se quiser.
+
+
+```
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
+```
