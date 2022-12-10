@@ -1,5 +1,6 @@
 # Configurando metadados 
 
+```
 [project]
 name = "example_package_YOUR_USERNAME_HERE"
 version = "0.0.1"
@@ -18,3 +19,4 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/pypa/sampleproject"
 "Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+```
